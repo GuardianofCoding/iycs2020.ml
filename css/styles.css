@@ -10102,6 +10102,7 @@ header.masthead {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  height: 100%;
   background-size: cover;
 }
 header.masthead h1 {
