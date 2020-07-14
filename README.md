@@ -1,2 +1,1 @@
-Bootstrap Mobile App Website
-http://startbootstrap.com/template-overviews/creative/
+Website created by Karthik Bhargav(karthikb19) and Shrey Gupta(shreygupta04) for IYCS 2020, and StartOnAI
